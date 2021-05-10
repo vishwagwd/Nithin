@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[first name entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[last name entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[YOE selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Date entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Profession Selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Tool Selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Continent selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Selected multiple commands]]>
+    </line>
+    <line>
+      <![CDATA[file uploaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on link]]>
+    </line>
+    <line>
+      <![CDATA[navigated to previous page successfully]]>
+    </line>
+    <line>
+      <![CDATA[Submitted successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-17T15:04:07Z" name="Default suite" finished-at="2021-03-17T15:04:29Z" duration-ms="22243">
+    <groups>
+    </groups>
+    <test started-at="2021-03-17T15:04:07Z" name="Default test" finished-at="2021-03-17T15:04:29Z" duration-ms="22243">
+      <class name="com.qa.sp.test.PracticeFormPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sp.test.PracticeFormPageTest@327af41b]" started-at="2021-03-17T15:04:07Z" name="setup" finished-at="2021-03-17T15:04:16Z" duration-ms="8858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="completepracticeformtest()[pri:0, instance:com.qa.sp.test.PracticeFormPageTest@327af41b]" started-at="2021-03-17T15:04:16Z" name="completepracticeformtest" finished-at="2021-03-17T15:04:29Z" duration-ms="13366" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[first name entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[last name entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[YOE selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Date entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Profession Selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Tool Selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Continent selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Selected multiple commands]]>
+            </line>
+            <line>
+              <![CDATA[file uploaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on link]]>
+            </line>
+            <line>
+              <![CDATA[navigated to previous page successfully]]>
+            </line>
+            <line>
+              <![CDATA[Submitted successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- completepracticeformtest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.sp.test.PracticeFormPageTest@327af41b]" started-at="2021-03-17T15:04:29Z" name="teardown" finished-at="2021-03-17T15:04:29Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.sp.test.PracticeFormPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
